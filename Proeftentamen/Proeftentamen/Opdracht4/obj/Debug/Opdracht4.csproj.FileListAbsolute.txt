@@ -1,0 +1,6 @@
+D:\Dropbox\DesignPatterns\Proeftentamen\Proeftentamen\Opdracht4\bin\Debug\Opdracht4.exe.config
+D:\Dropbox\DesignPatterns\Proeftentamen\Proeftentamen\Opdracht4\bin\Debug\Opdracht4.exe
+D:\Dropbox\DesignPatterns\Proeftentamen\Proeftentamen\Opdracht4\bin\Debug\Opdracht4.pdb
+D:\Dropbox\DesignPatterns\Proeftentamen\Proeftentamen\Opdracht4\obj\Debug\Opdracht4.csprojResolveAssemblyReference.cache
+D:\Dropbox\DesignPatterns\Proeftentamen\Proeftentamen\Opdracht4\obj\Debug\Opdracht4.exe
+D:\Dropbox\DesignPatterns\Proeftentamen\Proeftentamen\Opdracht4\obj\Debug\Opdracht4.pdb

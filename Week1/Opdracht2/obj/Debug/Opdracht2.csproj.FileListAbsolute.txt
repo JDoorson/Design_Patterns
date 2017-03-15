@@ -1,0 +1,5 @@
+C:\Users\Jamal\Dropbox\DesignPatterns\Week1\Opdracht2\bin\Debug\Opdracht2.exe.config
+C:\Users\Jamal\Dropbox\DesignPatterns\Week1\Opdracht2\bin\Debug\Opdracht2.exe
+C:\Users\Jamal\Dropbox\DesignPatterns\Week1\Opdracht2\bin\Debug\Opdracht2.pdb
+C:\Users\Jamal\Dropbox\DesignPatterns\Week1\Opdracht2\obj\Debug\Opdracht2.exe
+C:\Users\Jamal\Dropbox\DesignPatterns\Week1\Opdracht2\obj\Debug\Opdracht2.pdb

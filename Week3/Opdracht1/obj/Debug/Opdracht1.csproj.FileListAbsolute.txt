@@ -1,0 +1,2 @@
+C:\Users\Jamal\Dropbox\DesignPatterns\Week3\Opdracht1\bin\Debug\Opdracht1.exe.config
+D:\Dropbox\DesignPatterns\Week3\Opdracht1\bin\Debug\Opdracht1.exe.config

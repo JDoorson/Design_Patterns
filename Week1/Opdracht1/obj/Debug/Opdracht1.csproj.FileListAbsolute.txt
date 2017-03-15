@@ -1,0 +1,12 @@
+C:\Users\Jamal\Dropbox\DesignPatterns\Week1\Opdracht1\bin\Debug\Opdracht1.exe.config
+C:\Users\Jamal\Dropbox\DesignPatterns\Week1\Opdracht1\bin\Debug\Opdracht1.exe
+C:\Users\Jamal\Dropbox\DesignPatterns\Week1\Opdracht1\bin\Debug\Opdracht1.pdb
+C:\Users\Jamal\Dropbox\DesignPatterns\Week1\Opdracht1\obj\Debug\Opdracht1.csprojResolveAssemblyReference.cache
+C:\Users\Jamal\Dropbox\DesignPatterns\Week1\Opdracht1\obj\Debug\Opdracht1.exe
+C:\Users\Jamal\Dropbox\DesignPatterns\Week1\Opdracht1\obj\Debug\Opdracht1.pdb
+D:\Dropbox\DesignPatterns\Week1\Opdracht1\bin\Debug\Opdracht1.exe.config
+D:\Dropbox\DesignPatterns\Week1\Opdracht1\obj\Debug\Opdracht1.exe
+D:\Dropbox\DesignPatterns\Week1\Opdracht1\obj\Debug\Opdracht1.pdb
+D:\Dropbox\DesignPatterns\Week1\Opdracht1\bin\Debug\Opdracht1.exe
+D:\Dropbox\DesignPatterns\Week1\Opdracht1\bin\Debug\Opdracht1.pdb
+D:\Dropbox\DesignPatterns\Week1\Opdracht1\obj\Debug\Opdracht1.csprojResolveAssemblyReference.cache
