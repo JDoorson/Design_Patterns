@@ -12,18 +12,17 @@ namespace Opdracht2
         private IPinAutomaatStatus geenGeldAanwezig;
         private IPinAutomaatStatus kaartAanwezig;
         private IPinAutomaatStatus kaartNietAanwezig;
-
         private IPinAutomaatStatus automaatStatus;
         public int BedragInAutomaat { get; set; }
 
-        public PinAutomaat(int beginBedrag)
+        public PinAutomaat()
         {
             correctePinCodeIngevoerd = new CorrectePinStatus(this);
             geenGeldAanwezig = new GeenGeldStatus(this);
             kaartAanwezig = new KaartAanwezigStatus(this);
             kaartNietAanwezig = new GeefKaartStatus(this);
 
-            BedragInAutomaat = beginBedrag;
+            BedragInAutomaat = 0;
             automaatStatus = kaartNietAanwezig;
         }
 

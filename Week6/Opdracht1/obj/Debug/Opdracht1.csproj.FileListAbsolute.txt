@@ -1,0 +1,9 @@
+D:\College\DesignPatterns\Week6\Opdracht1\bin\Debug\Opdracht1.exe.config
+D:\College\DesignPatterns\Week6\Opdracht1\obj\Debug\Opdracht1.csprojResolveAssemblyReference.cache
+D:\College\DesignPatterns\Week6\Opdracht1\bin\Debug\Opdracht1.exe
+D:\College\DesignPatterns\Week6\Opdracht1\bin\Debug\Opdracht1.pdb
+D:\College\DesignPatterns\Week6\Opdracht1\obj\Debug\Opdracht1.exe
+D:\College\DesignPatterns\Week6\Opdracht1\obj\Debug\Opdracht1.pdb
+D:\College\Design_Patterns\Week6\Opdracht1\bin\Debug\Opdracht1.exe.config
+D:\College\Design_Patterns\Week6\Opdracht1\obj\Debug\Opdracht1.exe
+D:\College\Design_Patterns\Week6\Opdracht1\obj\Debug\Opdracht1.pdb
