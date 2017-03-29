@@ -22,7 +22,10 @@ namespace Opdracht2
 
         public void KaartInvoeren()
         {
+            Console.WriteLine("Geen geld aanwezig in de automaat.");
+            Console.WriteLine("Uw kaart is uitgeworpen.");
 
+            Console.WriteLine("");
         }
 
         public void KaartUitwerpen()
@@ -32,7 +35,9 @@ namespace Opdracht2
 
         public void PincodeInvoeren(int pincode)
         {
+            Console.WriteLine("Geen geld aanwezig in de automaat.");
 
+            Console.WriteLine();
         }
 
         public void ZetBedragInAutomaat(int bedrag)

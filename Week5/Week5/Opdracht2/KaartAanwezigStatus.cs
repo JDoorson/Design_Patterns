@@ -22,17 +22,26 @@ namespace Opdracht2
 
         public void KaartInvoeren()
         {
-
+            
         }
 
         public void KaartUitwerpen()
         {
+            Console.WriteLine("Uw kaart is uitgeworpen.");
+            automaat.ZetAutomaatStatus(automaat.GeefGeenKaartAanwezigStatus());
 
+            Console.WriteLine("");
         }
 
         public void PincodeInvoeren(int pincode)
         {
+            if (pincode == 1234)
+            {
+                Console.WriteLine("U heeft de correcte pincode ingevoerd.");
+                automaat.ZetAutomaatStatus(automaat.GeefCorrectePinStatus());
+            }
 
+            Console.WriteLine("");
         }
 
         public void ZetBedragInAutomaat(int bedrag)

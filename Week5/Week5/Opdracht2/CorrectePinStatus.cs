@@ -17,7 +17,19 @@ namespace Opdracht2
 
         public void GeldOpvragen(int bedrag)
         {
+            if(bedrag <= automaat.BedragInAutomaat)
+            {
+                automaat.BedragInAutomaat -= bedrag;
+                Console.WriteLine("{0} uit de automaat gehaald.", bedrag);
+                Console.WriteLine("Uw kaart is uitgeworpen");
 
+                if (automaat.BedragInAutomaat > 0)
+                    automaat.ZetAutomaatStatus(automaat.GeefGeenKaartAanwezigStatus());
+                else
+                    automaat.ZetAutomaatStatus(automaat.GeefGeenGeldStatus());
+            }
+
+            Console.WriteLine("");
         }
 
         public void KaartInvoeren()

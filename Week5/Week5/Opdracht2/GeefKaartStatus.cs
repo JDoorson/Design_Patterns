@@ -17,13 +17,15 @@ namespace Opdracht2
 
         public void GeldOpvragen(int bedrag)
         {
-            Console.WriteLine("Geen kaart aanwezig.");
+
         }
 
         public void KaartInvoeren()
         {
             Console.WriteLine("Geef uw pincode a.u.b.");
-            //automaat.ZetAutomaatStatus()
+            automaat.ZetAutomaatStatus(automaat.GeeftKaartAanwezigStatus());
+
+            Console.WriteLine("");
         }
 
         public void KaartUitwerpen()

@@ -22,7 +22,7 @@ namespace Opdracht2
             kaartAanwezig = new KaartAanwezigStatus(this);
             kaartNietAanwezig = new GeefKaartStatus(this);
 
-            BedragInAutomaat = 0;
+            BedragInAutomaat = 2000;    
             automaatStatus = kaartNietAanwezig;
         }
 
